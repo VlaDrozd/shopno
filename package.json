@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/VlaDrozd/shopno#readme",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.12.1"
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "tingle.js": "^0.15.2"
   },
   "devDependencies": {
     "css-loader": "^3.4.2",

@@ -1,8 +1,8 @@
-import './scss/base.scss'
-import './js/script'
-import '@fortawesome/fontawesome-free/js/fontawesome'
-import '@fortawesome/fontawesome-free/js/regular'
-import '@fortawesome/fontawesome-free/js/brands'
+import './scss/base.scss';
+import './js/script';
+import '@fortawesome/fontawesome-free/js/fontawesome';
+import '@fortawesome/fontawesome-free/js/regular';
+import '@fortawesome/fontawesome-free/js/brands';
 
 ymaps.ready(init);
 function init() {
@@ -11,3 +11,4 @@ function init() {
     zoom: 7
   });
 }
+
